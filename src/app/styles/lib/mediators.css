@@ -1,0 +1,9 @@
+@media (max-width: 768px) {
+  #logo a {
+    font-size: 24px;
+  }
+
+  nav ul {
+    gap: 12px;
+  }
+}
